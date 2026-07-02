@@ -1,0 +1,3 @@
+{
+  "compilerOptions": {"target": "ES2022","module": "ESNext","moduleResolution": "Node","jsx": "preserve","allowJs": true,"strict": true,"esModuleInterop": true,"forceConsistentCasingInFileNames": true,"resolveJsonModule": true,"isolatedModules": true,"noEmit": true,"skipLibCheck": true},"include": ["next-env.d.ts", "/.ts", "/.tsx"],"exclude": ["node_modules"]
+}
